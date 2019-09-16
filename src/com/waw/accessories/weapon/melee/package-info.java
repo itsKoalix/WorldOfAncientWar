@@ -1,0 +1,1 @@
+package com.waw.accessories.weapon.melee;
